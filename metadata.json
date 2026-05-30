@@ -1,0 +1,6 @@
+{
+  "name": "MentorIA",
+  "description": "Seu mentor de renda e monetização baseado em IA avançada para ajudar no faturamento e rendimento do seu dia a dia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
